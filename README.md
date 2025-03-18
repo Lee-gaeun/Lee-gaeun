@@ -1,4 +1,4 @@
-## Hi there 👋
+## e가은 깃허브 👋
 
 <!--
 **Lee-gaeun/Lee-gaeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
