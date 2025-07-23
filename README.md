@@ -26,7 +26,8 @@
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-gaeun&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-gaeun&layout=compact&theme=radical)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyeong0210&show_icons=true&theme=default)
+![commit time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mingyeong0210&theme=default&utcOffset=9)
 ---
 
 ## 📫 연락하기
