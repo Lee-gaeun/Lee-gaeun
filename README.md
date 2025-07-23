@@ -24,11 +24,16 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-gaeun&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-gaeun&layout=compact&theme=radical)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mingyeong0210&show_icons=true&theme=default)
-![commit time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mingyeong0210&theme=default&utcOffset=9)
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lee-gaeun&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-gaeun&layout=compact&theme=radical" height="180" />
+</p>
+
+## ⏰ Commit Activity
+![commit time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Lee-gaeun&theme=radical&utcOffset=9)
+
+## 📈 Profile Summary
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Lee-gaeun&theme=radical)---
 
 ## 📫 연락하기
 - Email: kmeans203@naver.com
