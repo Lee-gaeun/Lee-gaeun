@@ -36,8 +36,14 @@
       <div align = "center">
   <div align="center">
   <div align="center">
-    ![Ga-eun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-gaeun&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-gaeun&layout=compact&theme=radical)
+ <p align="center">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=Lee-gaeun&show_icons=true&bg_color=d7d7f8&title_color=5A4FCF&text_color=2D2D2D&icon_color=7B2FF7&hide_border=false" 
+       height="150"/>
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-gaeun&layout=compact&bg_color=d7d7f8&title_color=5A4FCF&text_color=2D2D2D&icon_color=7B2FF7&hide_border=false" 
+       height="150"/>
+</p>
 </div>
 </div>
 </div>
