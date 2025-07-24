@@ -35,11 +35,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
       <div align = "center">
   <div align="center">
-  <<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" 
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=Lee-gaeun&layout=compact&langs_count=10&bg_color=45,D8B4FE,A7EFFF&title_color=7B2FF7&text_color=000000&icon_color=FF8FAB&hide_border=false" />
-  </a>
+  <div align="center">
+    ![Ga-eun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lee-gaeun&show_icons=true&theme=radical)
+    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lee-gaeun&layout=compact&theme=radical)
 </div>
 </div>
 </div>
