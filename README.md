@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:e9adff,100:c4d2fd&height=120&text=e가은%20github☘️✨&animation=fadeIn&fontColor=303030&fontSize=50" />
+    <img src="https://raw.githubusercontent.com/Lee-gaeun/Lee-gaeun/main/banner.jpg" alt="e가은 GitHub banner" width="100%"/>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
