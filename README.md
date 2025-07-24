@@ -32,9 +32,18 @@
     <div align= "center">  </div> 
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=E가은&bg_color=180,f1e5ff,00000000&title_color=000000&text_color=000000"
-         /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=E가은&layout=compact&bg_color=180,f1e5ff,00000000&title_color=000000&text_color=000000"
-           /> </div> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> 
+      <div align = "center">
+  <div align="center">
+  <<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" 
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Lee-gaeun&layout=compact&langs_count=10&bg_color=45,D8B4FE,A7EFFF&title_color=7B2FF7&text_color=000000&icon_color=FF8FAB&hide_border=false" />
+  </a>
+</div>
+</div>
+</div>
+            </div> 
     </div>
     
 -------
