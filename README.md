@@ -28,15 +28,9 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=mailto:kmeans203@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kmeans203@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
     </div>
   <div align="center">
   <div align="center">
- <p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Lee-gaeun&show_icons=true&bg_color=d7d7f8&title_color=5A4FCF&text_color=2D2D2D&icon_color=7B2FF7&hide_border=false" 
-       height="150"/>
-</p>
 
 -------
 
